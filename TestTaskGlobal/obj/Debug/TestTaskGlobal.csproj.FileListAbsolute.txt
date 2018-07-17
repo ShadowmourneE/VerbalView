@@ -1,0 +1,7 @@
+C:\Users\Skalpel02\source\repos\TestTaskGlobal\TestTaskGlobal\bin\Debug\TestTaskGlobal.exe.config
+C:\Users\Skalpel02\source\repos\TestTaskGlobal\TestTaskGlobal\bin\Debug\TestTaskGlobal.exe
+C:\Users\Skalpel02\source\repos\TestTaskGlobal\TestTaskGlobal\bin\Debug\TestTaskGlobal.pdb
+C:\Users\Skalpel02\source\repos\TestTaskGlobal\TestTaskGlobal\obj\Debug\TestTaskGlobal.csprojResolveAssemblyReference.cache
+C:\Users\Skalpel02\source\repos\TestTaskGlobal\TestTaskGlobal\obj\Debug\TestTaskGlobal.csproj.CoreCompileInputs.cache
+C:\Users\Skalpel02\source\repos\TestTaskGlobal\TestTaskGlobal\obj\Debug\TestTaskGlobal.exe
+C:\Users\Skalpel02\source\repos\TestTaskGlobal\TestTaskGlobal\obj\Debug\TestTaskGlobal.pdb
